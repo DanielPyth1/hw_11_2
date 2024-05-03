@@ -7,3 +7,15 @@ def str_upper(string):
     return string.upper()
 
 print(str_upper("ryan gosling"))
+<<<<<<< HEAD
+
+def str_title(string):
+    """
+    Принимает на вход строку, которая делает заглавными первые буквы каждого слова
+    в строке, поступившей на вход функции
+    """
+    return string.title()
+
+print(str_title("ryan gosling"))
+=======
+>>>>>>> develop
