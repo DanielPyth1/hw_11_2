@@ -6,4 +6,4 @@ def str_upper(string):
     """
     return string.upper()
 
-print(str_title("ryan gosling"))
+print(str_upper("ryan gosling"))
