@@ -7,6 +7,7 @@ def str_upper(string):
     return string.upper()
 
 print(str_upper("ryan gosling"))
+<<<<<<< HEAD
 
 def str_title(string):
     """
@@ -16,3 +17,5 @@ def str_title(string):
     return string.title()
 
 print(str_title("ryan gosling"))
+=======
+>>>>>>> develop
