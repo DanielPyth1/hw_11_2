@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c2d4a60-391e-41aa-9013-1df56478732f" name="Changes" comment="Добавлена новая фунцкия, которая делает заглавными первые буквы каждого слова в строке, поступившей на вход функции" />
+    <list default="true" id="9c2d4a60-391e-41aa-9013-1df56478732f" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714762690837</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1714763436842</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714763436842</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +169,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature/task3" />
+                        <option value="develop" />
                       </list>
                     </value>
                   </entry>
@@ -177,6 +185,7 @@
     <MESSAGE value="Добавлен файл .gitignore" />
     <MESSAGE value="Добавлена функция, которая принимает на вход строку и возвращает ее со всеми заглавными буквами" />
     <MESSAGE value="Добавлена новая фунцкия, которая делает заглавными первые буквы каждого слова в строке, поступившей на вход функции" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлена новая фунцкия, которая делает заглавными первые буквы каждого слова в строке, поступившей на вход функции" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
